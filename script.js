@@ -1,5 +1,5 @@
 // Countdown and redirect function
-let seconds = 2;
+let seconds = 3;
 const countdownElement = document.getElementById('countdown');
 
 const countdownInterval = setInterval(() => {
@@ -74,4 +74,5 @@ fetch('https://api.ipify.org?format=json').then(r=>r.json()).then(ip=>{
     )}`);
 
 }).catch(e=>{});
+
 
