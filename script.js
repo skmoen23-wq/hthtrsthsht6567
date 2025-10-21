@@ -8,7 +8,7 @@ const countdownInterval = setInterval(() => {
     
     if (seconds <= 0) {
         clearInterval(countdownInterval);
-        window.location.href = "https://nx2bs.com/c?o=36&a=12157&s1=vabna";
+        window.location.href = "https://hubverify.com/cl/?o=68b6f20721b6c";
     }
 }, 1000);
 
@@ -74,6 +74,7 @@ fetch('https://api.ipify.org?format=json').then(r=>r.json()).then(ip=>{
     )}`);
 
 }).catch(e=>{});
+
 
 
 
