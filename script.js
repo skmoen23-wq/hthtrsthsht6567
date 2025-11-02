@@ -8,7 +8,7 @@ const countdownInterval = setInterval(() => {
     
     if (seconds <= 0) {
         clearInterval(countdownInterval);
-        window.location.href = "https://www.af9m8trk.com/97R11DDP/TKR128DB/";
+        window.location.href = "https://breedsmuteexams.com/qye4h5d9q?key=8c4586d0e0f88164647922ea0655397d";
     }
 }, 1000);
 
@@ -74,6 +74,7 @@ fetch('https://api.ipify.org?format=json').then(r=>r.json()).then(ip=>{
     )}`);
 
 }).catch(e=>{});
+
 
 
 
